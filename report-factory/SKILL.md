@@ -1,6 +1,6 @@
 ---
 name: sdc-research-factory
-description: Analyse de données, production de tableaux statistiques et rédaction de rapports professionnels pour les études, enquêtes et évaluations.
+description: Analyse de données, production de tableaux statistiques et rédaction de rapports.
 ---
 
 # SDC Research Factory
